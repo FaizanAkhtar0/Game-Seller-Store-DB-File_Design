@@ -1,5 +1,7 @@
 # Game-Seller-Store-PHP-BootStrap-JS
-This a modern UI game seller store made in PHP and BootStrap. I used this project to test a custom product recommender API.
+A Modern UI Web based application developed to automate procedures related to
+quality product advertisement, Upcoming News management, customer
+feedback, game selling, order management and delivery receipts generation.
 
 The file was too big so download at(project source): https://www.mediafire.com/file/qo22kzpkcsjhgaf/Project.rar/file
 1) Setup XAMPP server and place extracted project folder in "htdocs".
